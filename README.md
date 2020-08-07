@@ -1,7 +1,7 @@
 <h1 align="center">WinRing0驱动级输入</h1>
 
 <div align="center">
-  针对银行密码控件的模拟输入demo
+  针对密码控件的模拟输入demo
 </div>
 
 <br/>
